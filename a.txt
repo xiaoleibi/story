@@ -40,3 +40,5 @@ Terminal, SCSS, JSON, Mongodb, Web Accessibility***, intro forløb- Scratch/App 
 
  forløb
 
+ meeting 13.05.22
+
