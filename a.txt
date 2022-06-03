@@ -47,4 +47,31 @@ Git (Peer to Peer reveiew Pull request)
  forløb
 
  meeting 13.05.22
+ 
+ 
+ ------
+ topic accessibility
+ 
+Nyttige plugins: 
+Accessibility checker: https://chrome.google.com/webstore/detail/siteimprove-accessibility/djcglbmbegflehmbfleechkjhmedcopn
+Check af farve: https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
+Accessibility insigths: https://microsoftedge.microsoft.com/addons/detail/accessibility-insights-fo/ghbhpcookfemncgoinjblecnilppimih
+Heading structure: https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi/related
+ 
+Bøger: 
+https://abookapart.com/products/color-accessibility-workflows
+https://abookapart.com/products/accessibility-for-everyone
+https://www.goodreads.com/book/show/39644200-mismatch
+ 
+Kilder/Links: 
+Om WCAG 2.1: https://www.w3.org/TR/WCAG21/, forenklet version: https://www.w3.org/WAI/WCAG21/quickref/
+Color contrast checker: https://www.siteimprove.com/toolkit/color-contrast-checker/
+Color contrast checker: https://webaim.org/resources/contrastchecker/
+Om lovgivningen (hvem er underlagt loven): https://digst.dk/digital-service/webtilgaengelighed/spoergsmaal-og-svar-qa/
+Learning web accessibility: https://a11yphant.com/
+Checkliste når man arbejder med tilængelighed: https://www.a11yproject.com/checklist/
+Tips til at design for tilgængelighed: https://www.w3.org/WAI/tips/designing/
+Introduktion til web accessbility: https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888
+Understanding Accessibility: WCAG’s 13 Guidelines with Kasey Bonifacio
+ 
 
