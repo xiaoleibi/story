@@ -43,6 +43,8 @@ Terminal, SCSS, JSON, Mongodb, Web Accessibility***, intro forløb- Scratch/App 
  meeting 13.05.22
 
 
+  book henrik meeting (advanced custom fields WP)
+
  3 semester e-learning
  'database'
  1 installing MAMP uge 35 (mandag)
