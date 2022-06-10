@@ -56,6 +56,6 @@ Terminal, SCSS, JSON, Mongodb, Web Accessibility***, intro forløb- Scratch/App 
  uge 6 handson setup e-learing & bogen kode2web (p2p)
 
  ----
-
+  alternative (javascript/ microinteraction) (5ECTS)
 
   
