@@ -1,7 +1,13 @@
 third semester
 -
 6-2—2-1-1 regler?
+https://www.retsinformation.dk/eli/lta/2021/2673
 Content og projekt valgfag?
+SoundHub/SoundArt lab i Uge2 Mandag
+
+microbit + lave podcast
+
+
 Studieordning 2022 programmering del?
 Videngrundlag?
 Førsknings projekt?
@@ -26,7 +32,7 @@ med potentiale projekt 2nd-semester project/EAMV site (og viden grundlag)--2 uge
 -andre vigtig elementer placering  (eg. Database, SQL, -3rd normal rules
 Terminal, SCSS, JSON, Mongodb, Web Accessibility***, intro forløb- Scratch/App inventor (bestil vin) ….)
 
-
+Git (Peer to Peer reveiew Pull request)
 
 
 ----
@@ -41,6 +47,33 @@ Terminal, SCSS, JSON, Mongodb, Web Accessibility***, intro forløb- Scratch/App 
  forløb
 
  meeting 13.05.22
+ 
+ 
+ ------
+ topic accessibility
+ 
+Nyttige plugins: 
+Accessibility checker: https://chrome.google.com/webstore/detail/siteimprove-accessibility/djcglbmbegflehmbfleechkjhmedcopn
+Check af farve: https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
+Accessibility insigths: https://microsoftedge.microsoft.com/addons/detail/accessibility-insights-fo/ghbhpcookfemncgoinjblecnilppimih
+Heading structure: https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi/related
+ 
+Bøger: 
+https://abookapart.com/products/color-accessibility-workflows
+https://abookapart.com/products/accessibility-for-everyone
+https://www.goodreads.com/book/show/39644200-mismatch
+ 
+Kilder/Links: 
+Om WCAG 2.1: https://www.w3.org/TR/WCAG21/, forenklet version: https://www.w3.org/WAI/WCAG21/quickref/
+Color contrast checker: https://www.siteimprove.com/toolkit/color-contrast-checker/
+Color contrast checker: https://webaim.org/resources/contrastchecker/
+Om lovgivningen (hvem er underlagt loven): https://digst.dk/digital-service/webtilgaengelighed/spoergsmaal-og-svar-qa/
+Learning web accessibility: https://a11yphant.com/
+Checkliste når man arbejder med tilængelighed: https://www.a11yproject.com/checklist/
+Tips til at design for tilgængelighed: https://www.w3.org/WAI/tips/designing/
+Introduktion til web accessbility: https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888
+Understanding Accessibility: WCAG’s 13 Guidelines with Kasey Bonifacio
+ 
 
 
   book henrik meeting (advanced custom fields WP)
